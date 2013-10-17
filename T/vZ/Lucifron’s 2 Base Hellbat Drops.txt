@@ -1,0 +1,40 @@
+0:57 10 Supply
+1:37 12 Barracks
+2:40 16 Marine
+2:53 17 Orbital
+3:17 17 Command Center
+3:26 17 Supply
+3:50 18 Refinery
+3:51 18 Refinery
+I 3:52 Resume marines production
+4:27 23 Bunker
+4:48 25 Factory
+5:00 25 Orbital
+5:04  reactor_barrack
+5:30  supply
+5:50  Starport
+5:55  Armory
+I 6:00 Swap Factory on reactor and produce 2 hellions
+6:26  supply
+6:44  supply
+7:07  +1 Vehicle weapon
+I 7:05 Start Hellbat production
+7:15  supply
+7:17  supply
+I 7:45 start hellbat pressure on first medivac popout
+8:00  Command Center
+8:12  Factory
+8:17  supply
+8:20  supply
+8:58  supply
+9:17  Refinery
+9:18  Refinery
+9:19  lab_fact
+9:20  Factory
+9:25  supply
+Objectives:
+5:20 4 Marine
+7:10 2 Hellion
+8:00 1 Medivac
+8:20 40 SCV
+8:30 4 Hellbat

@@ -1,0 +1,6 @@
+0:01 0 SCV
+0:10 7 supply
+0:38 8 Barracks
+1:02 9 Command Center
+Objectives:
+1:10 7 SCV

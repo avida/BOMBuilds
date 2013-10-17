@@ -1,0 +1,23 @@
+0:57 10 Supply
+1:37 12 Barracks
+2:20 15 Refinery
+I 2:40 Build 2 marines on barrack ready
+2:53 17 Orbital
+3:00 17 supply
+3:50 20 reactor_barrack
+4:00 20 Command Center
+4:16 21 Factory
+I 4:40 Start constant marine production
+4:41  Supply
+5:16  Starport
+I 5:30 Swap off reacor and factory, build up to 6 hellions
+5:42  Orbital 
+6:00  Supply
+6:08  Medivac
+6:17  Supply
+6:46  Supply
+Objectives:
+7:00 29 SCV
+7:00 6 Marine
+7:00 4 Hellion
+7:00 1 Medivac

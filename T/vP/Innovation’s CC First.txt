@@ -1,0 +1,44 @@
+I 0:30 This is test info tip
+0:57 10 supply
+2:21 14 Command Center
+2:49 15 Barracks
+# This is comment example
+3:13 17 Barracks
+3:57 19 Bunker
+3:57 19 Orbital
+4:07 20 Orbital
+4:51 20 Barracks
+4:59 28 supply
+5:12 refinery
+5:15 refinery
+5:26 supply
+5:56 lab_barrack
+6:08 Factory
+6:11  supply
+6:14  Engineering Bay
+6:26  Stimpack
+6:29  supply
+6:57  +1 Infantry Attack
+7:07  Factory
+7:12  reactor_barrack
+7:23  lab_barrack
+7:49  Command Center
+7:59  refinery
+8:00  supply
+8:10  reactor_fact
+8:10  cosmoport
+8:18  supply
+8:34  Combat shields
+8:41  supply
+I 9:13 Build 2 medivacs
+9:39  +1 Infantry Armor
+9:48  Barracks
+9:50  Barracks
+9:54  Concussive shells
+Objectives:
+8:00 38 SCV
+8:00 14 Marine
+10:00 52 SCV
+10:00 20 Marine
+10:00 6 Marauder
+10:00 2 Medivac    
