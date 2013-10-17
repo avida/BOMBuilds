@@ -72,6 +72,8 @@ for s in f:
    if 'Objectives:' in s:
       break;
    line =  s.strip().split()
+   if len(line) == 0:
+      continue
    if(s[:1] == '#'):
       continue
    if(s[:1] == 'I'):
