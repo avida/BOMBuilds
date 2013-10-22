@@ -1,0 +1,32 @@
+# helldude                                             
+# replay: http://drop.sc/318004
+
+0:57 10 supply
+1:38 12 Barracks
+1:48 12 refinery
+2:48 15 Reaper
+2:48 16 Orbital
+I 3:10  17 After first 100 Gas is mined, stop mining all gas
+I 3:34  17 100% Reaper, start Reactor on Barracks
+3:32 17 Command Center
+3:50 18 supply
+4:12 19 Barracks
+4:27 20 Bunker 
+I 4:27  put 3 SCVs back in the Refinery
+5:19 27 lab_barrack
+I 5:45  100% Tech lab, start Stimpack Research
+I 6:30  100 Gas, start Factory, Engineering Bay, and 2nd Refinery 
+I 7:20  100% Engineering Bay, start +1 Infantry Attack and 3rd Refinery
+I 7:50  100% Factory, start Starport, Reactor on Factory, and 4th Refinery
+I 8:40  100% Starport, swap off onto Factory’s Reactor, start 3 more Barracks, and start double Medivac production
+I 8:40  100% Stimpack, start Combat Shields Research and begin Marauder production
+I 9:45  100% 2 Medivacs, push out
+I 9:57  100% 3rd Barracks, start Tech lab
+I       100% 4th/5th Barracks, start Tech lab and Reactor
+
+Objectives:
+2:48 1 Reaper
+7:50 35 SCV
+9:45 2 Medivac
+9:45 2 Marauder
+9:45 28 Marine

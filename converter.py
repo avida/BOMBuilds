@@ -21,6 +21,7 @@ ColloquialToCodeDictionary = {
    'Medivac'           : ['Medivac'],
    'Hellion'           : ['Hellion'],
    'HellionTank'       : ['Hellbat'],
+   'Reaper'            : ['Reaper'],
    'BarracksReactor'   : ['BarracksReactor','reactor_barrack'],
    'FactoryReactor'    : ['FactoryReactor', 'reactor_fact'],
    'StarportReactor'   : ['StarportReactor'],
