@@ -6,6 +6,7 @@ import re
 time_exp = re.compile('^\d{1,2}:\d{1,2}$')
 supply_exp = re.compile('^\d{1,2}$')
 ColloquialToCodeDictionary = {
+#terran
    'SupplyDepot'   : ['supply', 'Supply'],
    'Barracks'      : ['Barracks'],
    'Bunker'        : ['Bunker'],
@@ -28,9 +29,23 @@ ColloquialToCodeDictionary = {
    'FactoryTechLab'    : ['FactoryTechLab', 'lab_fact'],
    'BarracksTechLab'    : ['BarracksTechLab', 'lab_barrack'],
    'StarportTechLab'    : ['StarportTechLab'],
+# zerg
+   'Overlord'           : ['Overlord'],
+   'Hatchery'           : ['Hatchery'],
+   'SpawningPool'       : ['Pool'],
+   'Extractor'          : ['Extractor'],
+   'Queen'              : ['queen'],
+   'Drone'              : ['Drone'],
+   'Zergling'           : ['Zergling'],
+   'Spire'              : ['Spire'],
+   'EvolutionChamber'   : ['evolution chamber'],
+   'BanelingNest'       : ['Baneling Nest'],
+
+# protoss
 }
 
 AbilityCodeDictionary = {
+#terran
    '"UpgradeToOrbital", 0'       : ['Orbital' ],
    '"EngineeringBayResearch", 2' : ['+1_terran_infantry_attack', '+1 Infantry Attack'],
    '"EngineeringBayResearch", 6' : ['+1 Infantry Armor'],
@@ -38,6 +53,14 @@ AbilityCodeDictionary = {
    '"BarracksTechLabResearch", 0': ['Stimpack'],
    '"BarracksTechLabResearch", 1': ['Combat Shield', 'Combat shields'],
    '"BarracksTechLabResearch", 2': ['Fugas', 'Concussive shells'],
+#zerg
+   '"evolutionchamberresearch", 0' : ['+1 melee attack'],
+   '"evolutionchamberresearch", 3' : ['+1 ground armor'],
+   '"BanelingNestResearch", 0'     : ['Central hooks'],
+   '"UpgradeToLair", 0'            : ['Lair'],
+   '"SpawningPoolResearch", 1'     : ['metabolic boost'],
+   '"LairResearch", 1'             : ['carapace', 'Overlord speed' ],
+#protoss
 }
 
 def ColloqiualToCode(name):

@@ -1,0 +1,32 @@
+#sent by froke.ru
+0:45  9 Overlord
+2:07 15 Hatchery
+2:37 16 Pool
+2:51 17 Extractor
+3:20 17 Overlord
+3:50 queen
+3:51 queen
+I 3:53 +4 Zerlings
+4:23 metabolic boost
+I 4:23 Take out 2 drojnes from gas
+4:40 queen
+6:00 Extractor
+I 6:00 Put back 2 drones on gas
+6:10 Hatchery
+6:45 evolution chamber
+6:46 evolution chamber
+I 6:57 Build as many zerling as you can
+7:25 +1 melee attack
+7:26 +1 ground armor
+7:35 Lair
+7:45 Extractor
+7:46 Extractor
+7:50 Baneling Nest
+8:59 Spire
+9:00 Central hooks
+9:03 Hatchery
+9:05 queen
+9:30 Overlord speed
+Objectives:
+4:30 4 Zergling
+7:00 38 Drone
