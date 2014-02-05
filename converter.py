@@ -40,6 +40,9 @@ ColloquialToCodeDictionary = {
    'Spire'              : ['Spire'],
    'EvolutionChamber'   : ['evolution chamber'],
    'BanelingNest'       : ['Baneling Nest'],
+   'RoachWarren'        : ['RoachWarren'],
+   'InfestationPit'     : ['InfestationPit'],
+   'HydraliskDen'       : ['HydraliskDen'],
 
 # protoss
 }
@@ -56,10 +59,13 @@ AbilityCodeDictionary = {
 #zerg
    '"evolutionchamberresearch", 0' : ['+1 melee attack'],
    '"evolutionchamberresearch", 3' : ['+1 ground armor'],
+   '"evolutionchamberresearch", 6' : ['+1 range attack'],
    '"BanelingNestResearch", 0'     : ['Central hooks'],
    '"UpgradeToLair", 0'            : ['Lair'],
    '"SpawningPoolResearch", 1'     : ['metabolic boost'],
    '"LairResearch", 1'             : ['carapace', 'Overlord speed' ],
+   '"RoachWarrenResearch", 1'      : ['roach speed'],
+   
 #protoss
 }
 

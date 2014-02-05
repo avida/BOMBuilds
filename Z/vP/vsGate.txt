@@ -1,0 +1,23 @@
+00:45 9 Overlord
+1:57 15 Pool
+2:40 16 Hatchery
+3:02 15 queen
+I 3:09 build 2 zerlings
+3:25 Extractor
+3:55 queen
+4:21 24 Overlord
+4:23 queen
+4:56 metabolic boost
+I 4:56 take off 2 drones from the gas
+5:06 33 Overlord
+6:01 Hatchery
+6:05 Extractor
+I 6:05 Resume gas production
+6:12 42 Overlord
+6:13 42 Overlord
+6:30 RoachWarren
+6:50 Lair
+7:10 Extractor
+8:10 roach speed
+8:30 evolution chamber
+9:00 Hatchery

@@ -1,0 +1,26 @@
+0:45 9 Overlord 
+1:57 15 Pool
+2:40 16 Hatchery
+3:02 15 queen
+I 3:09 build 2 zerlings
+3:52 queen
+4:04 Hatchery
+4:30 queen
+5:57 Extractor
+5:58 Extractor
+6:55 RoachWarren
+7:05 metabolic boost
+7:30 Lair
+7:40 Extractor
+7:45 Hatchery
+7:46 queen
+7:55 evolution chamber
+7:56 Extractor
+8:33 +1 range attack
+9:00 roach speed
+9:30 InfestationPit
+9:31 HydraliskDen
+9:40 Extractor
+9:41 Extractor
+Objectives:
+4:00 2 Zergling
