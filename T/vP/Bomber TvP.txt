@@ -1,0 +1,47 @@
+0:56 10 supply
+2:24 15 command_center
+2:39 15 barrack
+3:12 17 barrack
+3:45 18 orbital_command
+3:46 19 marine
+4:07 19 orbital_command
+4:23 22 barrack
+4:44 25 supply
+4:56 27 supply
+5:24 32 gas
+5:25 32 gas
+5:33 35 bunker
+6:12 43 BarracksTechLab
+6:39 48 engeneering_bay
+6:46 52 Stimpack
+7:01 53 gas
+7:01 54 factory
+7:27 60 +1 Infantry Attack
+7:34 61 barrack
+7:38 62 barrack
+7:38 62 gas
+8:04 67 FactoryReactor
+8:04 67 starport
+8:08 68 BarracksReactor
+8:09 68 BarracksTechLab
+8:35 74 marauder
+8:37 74 shields
+9:07 82 medivac
+9:07 84 medivac
+9:39 94 Concussive shells
+10:06 106 +1 Infantry Armor
+Objectives:
+5:01 4 marine
+5:01 21 SCV
+6:04 10 marine
+6:04 28 SCV
+7:11 17 marine
+7:11 36 SCV
+8:07 23 marine
+8:07 42 SCV
+8:56 48 SCV
+8:56 24 marine
+9:49 2 medivac
+9:49 4 Marauder
+9:49 30 marine
+

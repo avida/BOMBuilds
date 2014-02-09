@@ -1,0 +1,72 @@
+0:58 10 supply
+1:36 12 barrack
+2:21 15 gas
+2:42 15 orbital_command
+2:42 16 marine
+3:00 16 supply
+3:46 19 command_center
+3:36 18 reactor_barrack
+4:18 21 factory
+4:24 21 supply
+4:30 23 marine
+4:30 24 marine
+
+#4:40 минус ксм и минус марик, так что плюс 2 лимита до следующего сражения (которое уже из другого реплея)
+
+5:21 29 starport
+5:27 29 orbital_command
+5:31 33 hellion
+5:31 33 hellion
+6:12 45 medivac
+
+#6:53 55 Контрольная точка: 1 медивак, 4 гелиона, 8 мариносов, 28 КСМ
+
+6:53 55 viking
+7:22 63 command_center
+7:32 64 gas
+
+#7:40 - битва, в которой было потеряно 8 лимита (4 марика и 2 гелика), так что дальше плюсую 8 лимита:)
+
+8:13 69 factory
+8:18 70 gas
+8:23 71 gas
+8:34 72 factory
+
+#7:40 - минус викинг, так что плюсую еще 2 лимита
+
+9:04 79 arsenal
+9:06 79 orbital_command
+9:15 81 FactoryTechLab
+9:34 83 FactoryReactor
+9:36 83 FactoryTechLab
+9:57 92 tank
+10:12 97 hellbat
+10:12 99 hellbat
+10:14 99 +1 Vehicle Weapon
+
+#10:26 - минус мина, так что плюсую еще 2 лимита
+
+10:39 103 viking
+10:39 105 viking
+10:39 105 factory
+10:41 105 factory
+10:49 106 engeneering_bay
+11:22 122 servos
+11:28 124 gas
+11:28 124 gas
+11:45 130 FactoryTechLab
+11:45 130 FactoryReactor
+11:53 130 turret
+11:58 130 turret
+
+13:02 160 +2 Vehicle Weapon
+
+#13:49 - минус мина, так что плюсую еще 2 лимита
+
+14:11 183 command_center
+14:14 183 command_center
+Objectives:
+12:32 66 SCV
+12:32 5 hellbat 
+12:32 12 Hellion
+12:32 3 tank

@@ -1,0 +1,72 @@
+0:57 10 supply
+2:27 15 command_center
+2:44 15 barrack
+3:08 17 gas
+3:51 19 orbital_command
+3:51 19 marine
+3:54 19 bunker
+4:07 19 orbital_command
+4:44 22 factory
+5:01 23 reactor_barrack
+5:09 23 command_center
+5:57 31 hellion
+5:58 33 hellion
+6:00 33 lab_barrack
+6:28 39 hellion
+6:28 41 hellion
+I 6:33 SCV get killed, so -1 supply limit
+6:37 42 Stimpack
+6:37 42 marine
+6:52 44 orbital_command
+7:14 47 barrack
+7:15 47 gas
+7:17 48 gas
+7:19 49 gas
+7:20 49 FactoryTechLab
+7:38 52 barrack
+7:38 52 Engineering Bay
+7:39 52 Engineering Bay
+8:05 61 tank
+I 8:40 4 hellions killed, so -8 supply
+8:40 70 +1 Infantry Attack
+8:40 70 +1 Infantry Armor
+8:50 71 reactor_barrack
+8:50 71 starport
+8:50 74 tank
+9:00 78 barrack
+9:02 78 barrack
+9:27 82 Combat Shield
+9:35 87 tank
+9:42 90 medivac
+9:55 97 gas
+10:01 97 arsenal
+10:15 102 reactor_barrack
+10:15 102 reactor_barrack
+10:28 109 medivac
+11:01 117 factory
+11:05 118 barrack
+11:07 121 barrack
+11:15 125 reactor_barrack
+11:21 125 barrack
+11:23 125 +2 Infantry Attack
+11:27 125 +2 Infantry Armor
+I 11:34 1 marines get killed
+12:10 145 reactor_barrack
+12:11 145 medivac
+12:11 147 medivac
+12:12 147 reactor_barrack
+12:12 147 reactor_barrack
+I 12:29 2 marines died
+12:47 160 reactor_barrack
+#13:53 200 Контрольная точка: 200 лимита 
+Objectives:
+4:43 2 marine
+4:43 19 SCV
+9:35 2 tank
+9:35 53 SCV
+6:58 2 marine
+6:58 4 hellion
+6:58 31 SCV
+11:23 67 SCV
+12:53 4 medivac
+12:53 3 tank

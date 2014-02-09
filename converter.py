@@ -4,31 +4,35 @@ import sys
 import uuid
 import re
 time_exp = re.compile('^\d{1,2}:\d{1,2}$')
-supply_exp = re.compile('^\d{1,2}$')
+supply_exp = re.compile('^\d{1,3}$')
 ColloquialToCodeDictionary = {
 #terran
    'SupplyDepot'   : ['supply', 'Supply'],
-   'Barracks'      : ['Barracks'],
-   'Bunker'        : ['Bunker'],
-   'Refinery'      : ['refinery','Refinery'],
-   'EngineeringBay': ['Engineering Bay'],
-   'CommandCenter' : ['command', 'Command Center'],
-   'Factory'       : ['Factory'],
-   'Starport'      : ['cosmoport','Starport'],
-   'Armory'       : ['Armory'],
+   'Barracks'      : ['Barracks', 'barrack'],
+   'Bunker'        : ['Bunker','bunker'],
+   'Refinery'      : ['refinery','Refinery', 'gas'],
+   'EngineeringBay': ['Engineering Bay', 'engeneering_bay'],
+   'CommandCenter' : ['command', 'Command Center', 'command_center'],
+   'Factory'       : ['Factory', 'factory'],
+   'Starport'      : ['cosmoport','Starport', 'starport'],
+   'Armory'       : ['Armory', 'arsenal'],
    'SCV'           : ['SCV'],
-   'Marine'        : ['Marine'],
-   'Marauder'      : ['Marauder'],
-   'Medivac'           : ['Medivac'],
-   'Hellion'           : ['Hellion'],
+   'Marine'        : ['Marine', 'marine'],
+   'Marauder'      : ['Marauder', 'marauder'],
+   'Medivac'           : ['Medivac', 'medivac'],
+   'Hellion'           : ['Hellion', 'hellion'],
    'HellionTank'       : ['Hellbat'],
    'Reaper'            : ['Reaper'],
+   'SiegeTank'            : ['tank'],
    'BarracksReactor'   : ['BarracksReactor','reactor_barrack'],
    'FactoryReactor'    : ['FactoryReactor', 'reactor_fact'],
    'StarportReactor'   : ['StarportReactor'],
    'FactoryTechLab'    : ['FactoryTechLab', 'lab_fact'],
    'BarracksTechLab'    : ['BarracksTechLab', 'lab_barrack'],
    'StarportTechLab'    : ['StarportTechLab'],
+   'MissleTurret'    : ['turret'],
+   'VikingFighter'    : ['viking'],
+   'HellionTank'    : ['hellbat'],
 # zerg
    'Overlord'           : ['Overlord'],
    'Hatchery'           : ['Hatchery'],
@@ -49,13 +53,19 @@ ColloquialToCodeDictionary = {
 
 AbilityCodeDictionary = {
 #terran
-   '"UpgradeToOrbital", 0'       : ['Orbital' ],
+   '"UpgradeToOrbital", 0'       : ['Orbital', 'orbital_command' ],
    '"EngineeringBayResearch", 2' : ['+1_terran_infantry_attack', '+1 Infantry Attack'],
    '"EngineeringBayResearch", 6' : ['+1 Infantry Armor'],
-   '"ArmoryResearch", 5' : ['+1 Vehicle Weapon', '+1 Vehicle weapon'],
+   '"EngineeringBayResearch", 3' : ['+2 Infantry Attack'],
+   '"EngineeringBayResearch", 7' : ['+2 Infantry Armor'],
+   '"ArmoryResearchSwarm", 0' : ['+1 Vehicle Weapon', '+1 Vehicle weapon'],
+   '"ArmoryResearchSwarm", 1' : ['+2 Vehicle Weapon', '+2 Vehicle weapon'],
+   '"ArmoryResearchSwarm", 3' : ['+1 Vehicle Armor', '+1 Vehicle armor'],
+   '"ArmoryResearchSwarm", 4' : ['+2 Vehicle Armor', '+2 Vehicle armor'],
    '"BarracksTechLabResearch", 0': ['Stimpack'],
-   '"BarracksTechLabResearch", 1': ['Combat Shield', 'Combat shields'],
+   '"BarracksTechLabResearch", 1': ['Combat Shield', 'Combat shields', 'shields'],
    '"BarracksTechLabResearch", 2': ['Fugas', 'Concussive shells'],
+   '"FactoryTechLabResearch", 2': ['servos'],
 #zerg
    '"evolutionchamberresearch", 0' : ['+1 melee attack'],
    '"evolutionchamberresearch", 3' : ['+1 ground armor'],
